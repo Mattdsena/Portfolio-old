@@ -16,3 +16,6 @@
 ## Portfolio
 
 ![Final](https://github.com/Mattdsena/Portfolio/blob/main/Assets/Images/website.jpg)
+
+### Week 2 Portfolio : https://github.com/Mattdsena/Portfolio-Week2
+### Week 2 Portfolio : https://mattdsena.github.io/Portfolio-Week2/
