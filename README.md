@@ -13,9 +13,7 @@
 - Users can see my works on Portfolio page.
 - Displaying my skills on Resume. 
 
-## Portfolio
+## Questions
 
-![Final](https://github.com/Mattdsena/Portfolio/blob/main/assets/Images/website.jpg)
+Any questions please contact me at matthewdsena@gmail.com
 
-### Week 2 Portfolio : https://github.com/Mattdsena/Portfolio-Week2
-### Week 2 Portfolio : https://mattdsena.github.io/Portfolio-Week2/
